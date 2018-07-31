@@ -1,0 +1,46 @@
+
+{
+    "startHour":"0",
+    "endHour":"23",
+    "undergrad_tas":[
+        {
+            "name":"dsf",
+            "email":"fsdfsd@gmail.com"
+        },
+        {
+            "name":"ljl",
+            "email":"jojojo@gmail.com"
+        }
+    ],
+    "officeHours":[
+        {
+            "day":"TUESDAY",
+            "time":"0_30am",
+            "name":"ljl"
+        },
+        {
+            "day":"MONDAY",
+            "time":"2_30am",
+            "name":"ljl"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"2_30am",
+            "name":"ljl"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"4_30am",
+            "name":"ljl"
+        }
+    ],
+    "RecitationData":[
+        {
+            "Section":"k;",
+            "Instructor":"k;jn",
+            "Day/Time":"njjn",
+            "Location":"lmnlnmjnio",
+            "TA":""
+        }
+    ]
+}

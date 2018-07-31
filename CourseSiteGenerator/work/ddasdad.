@@ -1,0 +1,21 @@
+
+{
+    "startHour":"0",
+    "endHour":"23",
+    "undergrad_tas":[
+        {
+            "name":"dasd",
+            "email":"dasdasdas@gmailc.om"
+        }
+    ],
+    "officeHours":[
+    ],
+    "RecitationData":[
+    ],
+    "ScheduleData":[
+    ],
+    "Team_Data":[
+    ],
+    "Student_Data":[
+    ]
+}

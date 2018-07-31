@@ -1,0 +1,113 @@
+
+{
+    "startHour":"0",
+    "endHour":"23",
+    "undergrad_tas":[
+        {
+            "name":"Jake Long",
+            "email":"kimJ@ghamil.com",
+            "grad_tas":false
+        },
+        {
+            "name":"patrick",
+            "email":"djsknfk@gmail.com",
+            "grad_tas":false
+        }
+    ],
+    "officeHours":[
+        {
+            "day":"TUESDAY",
+            "time":"1_30am",
+            "name":"Jake Long"
+        },
+        {
+            "day":"WEDNESDAY",
+            "time":"2_00am",
+            "name":"Jake Long"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"3_00am",
+            "name":"Jake Long"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"4_00am",
+            "name":"Jake Long"
+        },
+        {
+            "day":"MONDAY",
+            "time":"5_30am",
+            "name":"patrick"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"6_00am",
+            "name":"patrick"
+        },
+        {
+            "day":"WEDNESDAY",
+            "time":"6_00am",
+            "name":"patrick"
+        },
+        {
+            "day":"MONDAY",
+            "time":"6_30am",
+            "name":"patrick"
+        },
+        {
+            "day":"TUESDAY",
+            "time":"7_30am",
+            "name":"Jake Long"
+        }
+    ],
+    "recitations":[
+        {
+            "section":"r01",
+            "instructor":"mckenna",
+            "day_time":"now",
+            "location":"there",
+            "ta_1":"patrick",
+            "ta_2":" "
+        }
+    ],
+    "ScheduleData":[
+        {
+            "Criteria":"be here",
+            "Date":"2017-05-17",
+            "Link":"www.google.com",
+            "Time":"2pm",
+            "Schedule_Title":"this is it",
+            "Topic":"comp sci",
+            "Type":"Lecture"
+        }
+    ],
+    "Team_Data":[
+        {
+            "Project_Color":"0x80b380ff",
+            "Project_Link":"www.amazon.com",
+            "Project_Name":"Amazon",
+            "Project_Text_Color":"0x664db3ff"
+        },
+        {
+            "Project_Color":"0x334db3ff",
+            "Project_Link":"rain.com",
+            "Project_Name":"best",
+            "Project_Text_Color":"0xff9999ff"
+        }
+    ],
+    "Student_Data":[
+        {
+            "Project_First_Name":"patrick",
+            "Project_Last_Name":"boucicault",
+            "Project_Role":"engineer",
+            "Project_Team_List":"Amazon"
+        },
+        {
+            "Project_First_Name":"rick",
+            "Project_Last_Name":"bomo",
+            "Project_Role":"antagonist",
+            "Project_Team_List":"best"
+        }
+    ]
+}
